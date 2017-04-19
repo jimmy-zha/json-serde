@@ -1,0 +1,13 @@
+.project
+.settings/
+.classpath
+*.iml
+.buildpath
+.idea
+.cache-main
+.cache-tests
+target/
+logs/
+.DS_Store
+.checkstyle
+.eclipse-pmd
